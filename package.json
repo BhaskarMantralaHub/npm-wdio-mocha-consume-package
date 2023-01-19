@@ -19,5 +19,8 @@
   "homepage": "https://github.com/BhaskarMantralaHub/npm-wdio-mocha-consume-package#readme",
   "devDependencies": {
     "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@bhaskarmantralahub/npm-wdio-mocha-publish-package": "^1.0.4"
   }
 }
